@@ -14,5 +14,9 @@ public class MainActivity extends AppCompatActivity {
 
         Bugly.init(getApplicationContext(), "f23cd6d032", false);
 
+        //branch
+
+        //fgfgfg
+
     }
 }
